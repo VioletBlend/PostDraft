@@ -20,6 +20,10 @@ Mini TweetPad は、ユーザーの個人情報や閲覧データを一切収集
 
 Mini TweetPad は、ユーザーが安心して利用できるよう、最小限の権限のみを使用し、データを外部に送らない設計になっています。
 
+<br>
+
+<br>
+
 ## Chrome Extensions
 
 <br>
