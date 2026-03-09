@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Mini TweetPad",
+  "version": "1.0.0",
+  "description": "右下にTweetDeck風の下書きパネルを表示するミニ投稿ツール",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "options_page": "options.html",
+  "commands": {
+    "toggle-panel": {
+      "suggested_key": {
+        "default": "Alt+T"
+      },
+      "description": "Mini TweetPad パネルの開閉"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
