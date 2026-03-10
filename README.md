@@ -30,5 +30,6 @@ Mini TweetPad は、ユーザーが安心して利用できるよう、最小限
 
 <br>
 
-<img width="487" height="587" alt="スクリーンショット 2026-03-09 153630" src="https://github.com/user-attachments/assets/c56d9b89-edeb-4f29-a1e4-8446f5038315" />
+
+[![dashboard](https://github.com/user-attachments/assets/fac271f5-1dda-45ad-937c-4a2c3b0669e4)](https://chromewebstore.google.com/detail/jajlkgjmkeflceleidkgmipbmbgkgdde?authuser=1&hl=ja)
 
